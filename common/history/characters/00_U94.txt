@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:U94 = {
+		create_character = {
+			first_name = "Kianhoon_Doustioni"
+			ruler = yes
+			culture = cu:caddoan
+			religion = rel:totemism
+			birth_date = 1815.11.11
+			traits = {
+				basic_diplomat 
+			}
+		}
+
+	}
+}

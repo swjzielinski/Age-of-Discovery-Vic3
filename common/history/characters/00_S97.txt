@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:S97 = {
+		create_character = {
+			first_name = "Shaguiesa_Kanadaseagea"
+			ruler = yes
+			culture = cu:iroquoian
+			religion = rel:totemism
+			birth_date = 1815.11.11
+			traits = {
+				basic_political_operator 
+			}
+		}
+
+	}
+}

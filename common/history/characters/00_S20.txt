@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:S20 = {
+		create_character = {
+			first_name = "Jayadhvaj_Pal"
+			last_name = "Chutiya"
+			ruler = yes
+			culture = cu:assamese
+			religion = rel:hindu
+			birth_date = 1807.1.1
+			traits = {
+				meticulous 
+			}
+		}
+
+	}
+}

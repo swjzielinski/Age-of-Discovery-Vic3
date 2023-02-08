@@ -1,0 +1,12 @@
+﻿CHARACTERS = {
+	c:W12 = {
+		create_character = {
+			first_name = "Takchesca_Onacona"
+			ruler = yes
+			culture = cu:algonquian
+			religion = rel:totemism
+			birth_date = 1814.11.11
+		}
+
+	}
+}

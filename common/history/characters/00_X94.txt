@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:X94 = {
+		create_character = {
+			first_name = "Esen_Buqa"
+			last_name = "Chagatayid"
+			ruler = yes
+			culture = cu:kirgiz
+			religion = rel:sunni
+			birth_date = 1801.1.1
+			traits = {
+				arrogant 
+			}
+		}
+
+	}
+}

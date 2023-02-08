@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:U71 = {
+		create_character = {
+			first_name = "Noukonwabe_Bungee"
+			ruler = yes
+			culture = cu:algonquian
+			religion = rel:totemism
+			birth_date = 1815.11.11
+			traits = {
+				basic_political_operator 
+			}
+		}
+
+	}
+}

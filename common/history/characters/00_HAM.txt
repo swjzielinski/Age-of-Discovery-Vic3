@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:HAM = {
+		create_character = {
+			first_name = "Ernst_Kehrhahn"
+			ruler = yes
+			culture = cu:north_german
+			religion = rel:catholic
+			birth_date = 1797.11.11
+			traits = {
+				basic_colonial_administrator reserved 
+			}
+		}
+
+	}
+}

@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:W73 = {
+		create_character = {
+			first_name = "Chimalpili"
+			last_name = "Guamares"
+			ruler = yes
+			culture = cu:otomanguean
+			religion = rel:animist
+			birth_date = 1815.11.11
+			traits = {
+				cruel 
+			}
+		}
+
+	}
+}

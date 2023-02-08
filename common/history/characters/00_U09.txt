@@ -1,0 +1,28 @@
+﻿CHARACTERS = {
+	c:U09 = {
+		create_character = {
+			first_name = "Friedrich"
+			last_name = "von_Welf"
+			heir = yes
+			culture = cu:north_german
+			religion = rel:catholic
+			birth_date = 1809.1.1
+			traits = {
+				cautious 
+			}
+		}
+
+		create_character = {
+			first_name = "Otto_I"
+			last_name = "von_Welf"
+			ruler = yes
+			culture = cu:north_german
+			religion = rel:catholic
+			birth_date = 1791.1.1
+			traits = {
+				innovative 
+			}
+		}
+
+	}
+}

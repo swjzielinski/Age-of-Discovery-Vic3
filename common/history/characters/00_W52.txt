@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:W52 = {
+		create_character = {
+			first_name = "Reimer_Russe"
+			ruler = yes
+			culture = cu:north_german
+			religion = rel:catholic
+			birth_date = 1778.11.11
+			traits = {
+				basic_colonial_administrator persistent 
+			}
+		}
+
+	}
+}

@@ -1,0 +1,28 @@
+﻿CHARACTERS = {
+	c:W50 = {
+		create_character = {
+			first_name = "Dan_Bahadur"
+			last_name = "Chauhan"
+			heir = yes
+			culture = cu:nepali
+			religion = rel:hindu
+			birth_date = 1835.1.1
+			traits = {
+				opium_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Udat"
+			last_name = "Chauhan"
+			ruler = yes
+			culture = cu:nepali
+			religion = rel:hindu
+			birth_date = 1817.1.1
+			traits = {
+				wrathful 
+			}
+		}
+
+	}
+}

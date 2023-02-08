@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:BLF = {
+		create_character = {
+			first_name = "Powahque_Sikutsipumaiks"
+			ruler = yes
+			culture = cu:algonquian
+			religion = rel:totemism
+			birth_date = 1817.11.11
+			traits = {
+				basic_political_operator 
+			}
+		}
+
+	}
+}

@@ -1,0 +1,28 @@
+﻿CHARACTERS = {
+	c:W91 = {
+		create_character = {
+			first_name = "Ahmad"
+			last_name = "Muzaffarid"
+			heir = yes
+			culture = cu:gujarati
+			religion = rel:sunni
+			birth_date = 1822.1.1
+			traits = {
+				direct 
+			}
+		}
+
+		create_character = {
+			first_name = "Muhammad_Shah_II"
+			last_name = "Muzaffarid"
+			ruler = yes
+			culture = cu:gujarati
+			religion = rel:sunni
+			birth_date = 1813.1.1
+			traits = {
+				reserved 
+			}
+		}
+
+	}
+}

@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:T54 = {
+		create_character = {
+			first_name = "Oacpicagiguya_Onk_Akimal"
+			ruler = yes
+			culture = cu:oodham
+			religion = rel:totemism
+			birth_date = 1817.11.11
+			traits = {
+				basic_diplomat 
+			}
+		}
+
+	}
+}

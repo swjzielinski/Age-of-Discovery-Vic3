@@ -1,0 +1,28 @@
+﻿CHARACTERS = {
+	c:U59 = {
+		create_character = {
+			first_name = "Qiyu"
+			last_name = "Zhu"
+			heir = yes
+			culture = cu:han
+			religion = rel:mahayana
+			birth_date = 1819.9.21
+			traits = {
+				romantic 
+			}
+		}
+
+		create_character = {
+			first_name = "Qizhen"
+			last_name = "Zhu"
+			ruler = yes
+			culture = cu:han
+			religion = rel:mahayana
+			birth_date = 1805.1.31
+			traits = {
+				cautious 
+			}
+		}
+
+	}
+}

@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:X82 = {
+		create_character = {
+			first_name = "Sauninot_Nabiti"
+			ruler = yes
+			culture = cu:caddoan
+			religion = rel:totemism
+			birth_date = 1814.11.11
+			traits = {
+				basic_colonial_administrator 
+			}
+		}
+
+	}
+}

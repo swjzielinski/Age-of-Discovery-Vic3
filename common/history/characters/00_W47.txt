@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:W47 = {
+		create_character = {
+			first_name = "Panglima"
+			last_name = "Deli"
+			ruler = yes
+			culture = cu:sumatran
+			religion = rel:sunni
+			birth_date = 1814.1.1
+			traits = {
+				reserved 
+			}
+		}
+
+	}
+}

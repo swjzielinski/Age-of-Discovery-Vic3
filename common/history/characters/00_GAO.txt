@@ -1,0 +1,28 @@
+﻿CHARACTERS = {
+	c:GAO = {
+		create_character = {
+			first_name = "Mar_Arandan"
+			last_name = "Sonni"
+			heir = yes
+			culture = cu:songhai
+			religion = rel:sunni
+			birth_date = 1761.1.1
+			traits = {
+				reckless 
+			}
+		}
+
+		create_character = {
+			first_name = "Mar-Arkana"
+			last_name = "Sonni"
+			ruler = yes
+			culture = cu:songhai
+			religion = rel:sunni
+			birth_date = 1772.1.1
+			traits = {
+				direct 
+			}
+		}
+
+	}
+}

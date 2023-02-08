@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:V87 = {
+		create_character = {
+			first_name = "Jayayaksha"
+			last_name = "Malla"
+			ruler = yes
+			culture = cu:nepali
+			religion = rel:hindu
+			birth_date = 1797.1.1
+			traits = {
+				arrogant 
+			}
+		}
+
+	}
+}

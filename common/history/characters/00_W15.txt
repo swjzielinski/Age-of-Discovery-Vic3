@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:W15 = {
+		create_character = {
+			first_name = "Anca"
+			last_name = "Cajamarcas"
+			ruler = yes
+			culture = cu:quechua
+			religion = rel:inti
+			birth_date = 1817.1.1
+			traits = {
+				arrogant 
+			}
+		}
+
+	}
+}

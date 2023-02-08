@@ -1,0 +1,30 @@
+﻿CHARACTERS = {
+	c:W33 = {
+		create_character = {
+			first_name = "Tupac-Yupanqui"
+			last_name = "Hanan"
+			heir = yes
+			culture = cu:quechua
+			religion = rel:inti
+			birth_date = 1835.1.1
+			traits = {
+				experienced_political_operator reserved 
+			}
+		}
+
+		create_character = {
+			first_name = "Pachacuti"
+			last_name = "Hanan"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_3
+			culture = cu:quechua
+			religion = rel:inti
+			birth_date = 1811.1.1
+			traits = {
+				experienced_offensive_planner expert_political_operator wrathful 
+			}
+		}
+
+	}
+}

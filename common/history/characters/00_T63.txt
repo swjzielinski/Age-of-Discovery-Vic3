@@ -1,0 +1,43 @@
+﻿CHARACTERS = {
+	c:T63 = {
+		create_character = {
+			first_name = "Charles"
+			last_name = "de_Valois"
+			heir = yes
+			culture = cu:occitan
+			religion = rel:catholic
+			birth_date = 1827.1.1
+			traits = {
+				grifter 
+			}
+		}
+
+		create_character = {
+			first_name = "Isabella"
+			last_name = "de_Metz"
+			female = yes
+			culture = cu:french
+			religion = rel:catholic
+			birth_date = 1791.1.1
+			traits = {
+				meticulous 
+			}
+		}
+
+		create_character = {
+			first_name = "Rene_I"
+			last_name = "de_Valois"
+			ruler = yes
+			culture = cu:occitan
+			religion = rel:catholic
+			birth_date = 1800.1.16
+			traits = {
+				basic_diplomat hedonist 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:ARP = {
+		create_character = {
+			first_name = "Mequah_Cathlamet"
+			ruler = yes
+			culture = cu:algonquian
+			religion = rel:totemism
+			birth_date = 1816.11.11
+			traits = {
+				shellshocked 
+			}
+		}
+
+	}
+}

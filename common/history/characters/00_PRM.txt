@@ -1,0 +1,28 @@
+﻿CHARACTERS = {
+	c:PRM = {
+		create_character = {
+			first_name = "Mikhail"
+			last_name = "Velikopermsky"
+			heir = yes
+			culture = cu:ugrian
+			religion = rel:orthodox
+			birth_date = 1811.1.1
+			traits = {
+				direct expert_colonial_administrator 
+			}
+		}
+
+		create_character = {
+			first_name = "Yermolay_I"
+			last_name = "Velikopermsky"
+			ruler = yes
+			culture = cu:ugrian
+			religion = rel:orthodox
+			birth_date = 1817.1.1
+			traits = {
+				expert_colonial_administrator persistent 
+			}
+		}
+
+	}
+}

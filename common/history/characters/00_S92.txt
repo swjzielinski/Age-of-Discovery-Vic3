@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:S92 = {
+		create_character = {
+			first_name = "Jakob_von_Sirk"
+			ruler = yes
+			culture = cu:south_german
+			religion = rel:catholic
+			birth_date = 1789.1.1
+			traits = {
+				charismatic 
+			}
+		}
+
+	}
+}

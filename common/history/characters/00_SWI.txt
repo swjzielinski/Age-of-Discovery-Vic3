@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:SWI = {
+		create_character = {
+			first_name = "Henri_von_Baltharsar"
+			ruler = yes
+			culture = cu:swiss
+			religion = rel:catholic
+			birth_date = 1785.11.11
+			traits = {
+				experienced_diplomat wrathful 
+			}
+		}
+
+	}
+}

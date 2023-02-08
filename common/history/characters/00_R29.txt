@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:R29 = {
+		create_character = {
+			first_name = "Pemulwuy_Ganan"
+			ruler = yes
+			culture = cu:aborigine
+			religion = rel:animist
+			birth_date = 1817.11.11
+			traits = {
+				basic_political_operator innovative 
+			}
+		}
+
+	}
+}

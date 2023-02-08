@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:LKT = {
+		create_character = {
+			first_name = "Shacope_Mnikhowozu"
+			ruler = yes
+			culture = cu:dakota
+			religion = rel:totemism
+			birth_date = 1817.11.11
+			traits = {
+				basic_colonial_administrator 
+			}
+		}
+
+	}
+}

@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:T36 = {
+		create_character = {
+			first_name = "Hedia"
+			last_name = "Otomi"
+			ruler = yes
+			culture = cu:otomanguean
+			religion = rel:nahuatl
+			birth_date = 1816.11.11
+			traits = {
+				romantic 
+			}
+		}
+
+	}
+}

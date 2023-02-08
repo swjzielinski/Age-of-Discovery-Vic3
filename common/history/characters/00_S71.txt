@@ -1,0 +1,43 @@
+﻿CHARACTERS = {
+	c:S71 = {
+		create_character = {
+			first_name = "Albrecht"
+			last_name = "von_Wettin"
+			heir = yes
+			culture = cu:north_german
+			religion = rel:catholic
+			birth_date = 1834.7.31
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Margaret"
+			last_name = "von_Habsburg"
+			female = yes
+			culture = cu:north_german
+			religion = rel:catholic
+			birth_date = 1807.6.3
+			traits = {
+				persistent 
+			}
+		}
+
+		create_character = {
+			first_name = "Friedrich_II"
+			last_name = "von_Wettin"
+			ruler = yes
+			culture = cu:north_german
+			religion = rel:catholic
+			birth_date = 1803.8.22
+			traits = {
+				romantic 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

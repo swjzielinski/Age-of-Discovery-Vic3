@@ -1,0 +1,40 @@
+﻿CHARACTERS = {
+	c:HES = {
+		create_character = {
+			first_name = "Ludwig"
+			last_name = "von_Hessen"
+			heir = yes
+			culture = cu:north_german
+			religion = rel:catholic
+			birth_date = 1829.9.7
+		}
+
+		create_character = {
+			first_name = "Anna"
+			last_name = "von_Wettin"
+			female = yes
+			culture = cu:north_german
+			religion = rel:catholic
+			birth_date = 1811.6.5
+			traits = {
+				cautious 
+			}
+		}
+
+		create_character = {
+			first_name = "Ludwig_I"
+			last_name = "von_Hessen"
+			ruler = yes
+			culture = cu:north_german
+			religion = rel:catholic
+			birth_date = 1793.2.6
+			traits = {
+				ambitious 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

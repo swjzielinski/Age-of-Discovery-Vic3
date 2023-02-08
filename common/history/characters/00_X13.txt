@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:X13 = {
+		create_character = {
+			first_name = "Thateyyanayoh_Kehesetoa"
+			ruler = yes
+			culture = cu:iroquoian
+			religion = rel:totemism
+			birth_date = 1815.11.11
+			traits = {
+				basic_diplomat 
+			}
+		}
+
+	}
+}

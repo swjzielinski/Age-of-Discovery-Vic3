@@ -1,0 +1,28 @@
+﻿CHARACTERS = {
+	c:W16 = {
+		create_character = {
+			first_name = "Chuqui_Capac"
+			last_name = "Colla"
+			heir = yes
+			culture = cu:aimara
+			religion = rel:inti
+			birth_date = 1811.1.1
+			traits = {
+				romantic 
+			}
+		}
+
+		create_character = {
+			first_name = "Cari"
+			last_name = "Colla"
+			ruler = yes
+			culture = cu:aimara
+			religion = rel:inti
+			birth_date = 1816.1.1
+			traits = {
+				hedonist 
+			}
+		}
+
+	}
+}

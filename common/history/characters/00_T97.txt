@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:T97 = {
+		create_character = {
+			first_name = "Noohehoos_Soowalhie"
+			ruler = yes
+			culture = cu:salish
+			religion = rel:totemism
+			birth_date = 1816.11.11
+			traits = {
+				basic_political_operator 
+			}
+		}
+
+	}
+}

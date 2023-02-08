@@ -1,0 +1,20 @@
+﻿DIPLOMACY = {
+	c:LUB = {
+		create_diplomatic_pact = {
+			country = c:T84
+			type = customs_union
+		}
+	}
+	c:LUB = {
+		create_diplomatic_pact = {
+			country = c:BRE
+			type = customs_union
+		}
+	}
+	c:LUB = {
+		create_diplomatic_pact = {
+			country = c:HAM
+			type = customs_union
+		}
+	}
+}

@@ -1,0 +1,28 @@
+﻿CHARACTERS = {
+	c:S70 = {
+		create_character = {
+			first_name = "Ali"
+			last_name = "Beni_Djellab"
+			heir = yes
+			culture = cu:maghrebi
+			religion = rel:sunni
+			birth_date = 1801.1.1
+			traits = {
+				meticulous 
+			}
+		}
+
+		create_character = {
+			first_name = "Mubarak"
+			last_name = "Beni_Djellab"
+			ruler = yes
+			culture = cu:maghrebi
+			religion = rel:sunni
+			birth_date = 1802.1.1
+			traits = {
+				cautious 
+			}
+		}
+
+	}
+}

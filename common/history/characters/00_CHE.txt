@@ -1,0 +1,12 @@
+﻿CHARACTERS = {
+	c:CHE = {
+		create_character = {
+			first_name = "Tistoe"
+			ruler = yes
+			culture = cu:cherokee
+			religion = rel:totemism
+			birth_date = 1772.1.1
+		}
+
+	}
+}

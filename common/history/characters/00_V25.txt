@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:V25 = {
+		create_character = {
+			first_name = "Iteansis_Kinipekw"
+			ruler = yes
+			culture = cu:algonquian
+			religion = rel:totemism
+			birth_date = 1817.11.11
+			traits = {
+				experienced_political_operator 
+			}
+		}
+
+	}
+}

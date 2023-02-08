@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:W84 = {
+		create_character = {
+			first_name = "Johann_Georg_Kleinau"
+			ruler = yes
+			culture = cu:north_german
+			religion = rel:catholic
+			birth_date = 1787.11.11
+			traits = {
+				basic_colonial_administrator innovative 
+			}
+		}
+
+	}
+}

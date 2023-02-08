@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:X12 = {
+		create_character = {
+			first_name = "Salah_ad-Din__Amir_I"
+			last_name = "Tahirid"
+			ruler = yes
+			culture = cu:yemenite
+			religion = rel:sunni
+			birth_date = 1814.1.1
+			traits = {
+				ambitious experienced_political_operator 
+			}
+		}
+
+	}
+}

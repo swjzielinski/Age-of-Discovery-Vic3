@@ -1,0 +1,12 @@
+﻿CHARACTERS = {
+	c:V83 = {
+		create_character = {
+			first_name = "Taskanugi_Hatke_Hopoethe"
+			ruler = yes
+			culture = cu:muskogean
+			religion = rel:totemism
+			birth_date = 1814.11.11
+		}
+
+	}
+}

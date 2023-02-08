@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:R39 = {
+		create_character = {
+			first_name = "Quimichetl_Tzompantli"
+			ruler = yes
+			culture = cu:penutian
+			religion = rel:totemism
+			birth_date = 1814.11.11
+			traits = {
+				basic_political_operator 
+			}
+		}
+
+	}
+}

@@ -1,0 +1,28 @@
+﻿CHARACTERS = {
+	c:V42 = {
+		create_character = {
+			first_name = "Khorapha"
+			last_name = "Dimasa"
+			heir = yes
+			culture = cu:manipuri
+			religion = rel:hindu
+			birth_date = 1791.1.1
+			traits = {
+				arrogant 
+			}
+		}
+
+		create_character = {
+			first_name = "Ladapha"
+			last_name = "Dimasa"
+			ruler = yes
+			culture = cu:manipuri
+			religion = rel:hindu
+			birth_date = 1780.1.1
+			traits = {
+				arrogant 
+			}
+		}
+
+	}
+}

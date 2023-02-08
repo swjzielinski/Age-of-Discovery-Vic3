@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:GRI = {
+		create_character = {
+			first_name = "Jakaira_Caaigua"
+			ruler = yes
+			culture = cu:guarani
+			religion = rel:animist
+			birth_date = 1816.11.11
+			traits = {
+				basic_political_operator direct 
+			}
+		}
+
+	}
+}

@@ -1,0 +1,28 @@
+﻿CHARACTERS = {
+	c:X43 = {
+		create_character = {
+			first_name = "Bertrand"
+			last_name = "de_la_Tour"
+			heir = yes
+			culture = cu:occitan
+			religion = rel:catholic
+			birth_date = 1808.1.1
+			traits = {
+				imperious 
+			}
+		}
+
+		create_character = {
+			first_name = "Bertrand_II"
+			last_name = "de_la_Tour"
+			ruler = yes
+			culture = cu:occitan
+			religion = rel:catholic
+			birth_date = 1781.1.1
+			traits = {
+				ambitious 
+			}
+		}
+
+	}
+}

@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:U80 = {
+		create_character = {
+			first_name = "Penaysewaykesek_Marameg"
+			ruler = yes
+			culture = cu:algonquian
+			religion = rel:totemism
+			birth_date = 1815.11.11
+			traits = {
+				opium_addiction 
+			}
+		}
+
+	}
+}

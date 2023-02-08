@@ -1,0 +1,28 @@
+﻿CHARACTERS = {
+	c:S43 = {
+		create_character = {
+			first_name = "Farrukhsiyar_Khalil"
+			last_name = "Derbendid"
+			heir = yes
+			culture = cu:azerbaijani
+			religion = rel:sunni
+			birth_date = 1796.1.1
+			traits = {
+				pious 
+			}
+		}
+
+		create_character = {
+			first_name = "Ibrahim_I"
+			last_name = "Derbendid"
+			ruler = yes
+			culture = cu:azerbaijani
+			religion = rel:sunni
+			birth_date = 1791.1.1
+			traits = {
+				hedonist 
+			}
+		}
+
+	}
+}

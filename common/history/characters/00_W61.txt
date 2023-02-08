@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:W61 = {
+		create_character = {
+			first_name = "Awmeyeeray_Tondakhra"
+			ruler = yes
+			culture = cu:iroquoian
+			religion = rel:totemism
+			birth_date = 1815.11.11
+			traits = {
+				shellshocked 
+			}
+		}
+
+	}
+}

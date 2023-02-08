@@ -1,0 +1,28 @@
+﻿CHARACTERS = {
+	c:W64 = {
+		create_character = {
+			first_name = "Manuel"
+			last_name = "of_Gothia"
+			heir = yes
+			culture = cu:greek
+			religion = rel:orthodox
+			birth_date = 1834.10.29
+			traits = {
+				experienced_political_operator 
+			}
+		}
+
+		create_character = {
+			first_name = "Alexis"
+			last_name = "of_Gothia"
+			ruler = yes
+			culture = cu:greek
+			religion = rel:orthodox
+			birth_date = 1782.3.8
+			traits = {
+				basic_diplomat innovative 
+			}
+		}
+
+	}
+}

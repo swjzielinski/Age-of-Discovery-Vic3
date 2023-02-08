@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:T52 = {
+		create_character = {
+			first_name = "Drakpa_Jungne"
+			last_name = "Lang"
+			ruler = yes
+			culture = cu:tibetan
+			religion = rel:gelugpa
+			birth_date = 1784.1.1
+			traits = {
+				imperious 
+			}
+		}
+
+	}
+}

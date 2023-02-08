@@ -1,0 +1,28 @@
+﻿CHARACTERS = {
+	c:MNP = {
+		create_character = {
+			first_name = "Senbi_Kiyamba"
+			last_name = "Ningthouja"
+			heir = yes
+			culture = cu:manipuri
+			religion = rel:animist
+			birth_date = 1823.1.1
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+		create_character = {
+			first_name = "Ningthou_Khama"
+			last_name = "Ningthouja"
+			ruler = yes
+			culture = cu:manipuri
+			religion = rel:animist
+			birth_date = 1804.1.1
+			traits = {
+				hedonist 
+			}
+		}
+
+	}
+}

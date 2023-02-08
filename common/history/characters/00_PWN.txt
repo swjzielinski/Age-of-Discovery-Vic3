@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:PWN = {
+		create_character = {
+			first_name = "Letereeshar_Kawaraki"
+			ruler = yes
+			culture = cu:caddoan
+			religion = rel:totemism
+			birth_date = 1814.11.11
+			traits = {
+				basic_political_operator 
+			}
+		}
+
+	}
+}

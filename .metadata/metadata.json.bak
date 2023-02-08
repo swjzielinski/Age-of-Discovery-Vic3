@@ -1,0 +1,13 @@
+{
+  "name" : "Age of Discovery 1444",
+  "id" : "2923418734",
+  "version" : "0.1",
+  "supported_game_version" : "",
+  "thumbnail" : "thumbnail.png",
+  "short_description" : "Age of discovery 1444",
+  "tags" : ["Alternative History", "Conversion", "Map", "Expansion"],
+  "relationships" : [],
+  "game_custom_data" : {
+    "multiplayer_synchronized" : true
+  }
+}

@@ -1,0 +1,12 @@
+﻿CHARACTERS = {
+	c:V53 = {
+		create_character = {
+			first_name = "Catiti_Cochiti"
+			ruler = yes
+			culture = cu:pueblo
+			religion = rel:totemism
+			birth_date = 1815.11.11
+		}
+
+	}
+}

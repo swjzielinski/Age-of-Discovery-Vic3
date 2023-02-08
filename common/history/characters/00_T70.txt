@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:T70 = {
+		create_character = {
+			first_name = "Banaji"
+			last_name = "Gohil"
+			ruler = yes
+			culture = cu:gujarati
+			religion = rel:hindu
+			birth_date = 1772.1.1
+			traits = {
+				persistent 
+			}
+		}
+
+	}
+}

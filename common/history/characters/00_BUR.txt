@@ -1,0 +1,28 @@
+﻿CHARACTERS = {
+	c:BUR = {
+		create_character = {
+			first_name = "Minkhaung"
+			last_name = "Taungu"
+			heir = yes
+			culture = cu:burmese
+			religion = rel:theravada
+			birth_date = 1811.1.1
+			traits = {
+				ambitious 
+			}
+		}
+
+		create_character = {
+			first_name = "Tarabya"
+			last_name = "Taungu"
+			ruler = yes
+			culture = cu:burmese
+			religion = rel:theravada
+			birth_date = 1813.1.1
+			traits = {
+				basic_political_operator cautious 
+			}
+		}
+
+	}
+}

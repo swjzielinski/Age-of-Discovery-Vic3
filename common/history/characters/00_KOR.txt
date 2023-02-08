@@ -1,0 +1,43 @@
+﻿CHARACTERS = {
+	c:KOR = {
+		create_character = {
+			first_name = "Hyang"
+			last_name = "Yi"
+			heir = yes
+			culture = cu:korean
+			religion = rel:mahayana
+			birth_date = 1805.11.15
+			traits = {
+				cautious 
+			}
+		}
+
+		create_character = {
+			first_name = "Soheon"
+			last_name = "Sim"
+			female = yes
+			culture = cu:korean
+			religion = rel:mahayana
+			birth_date = 1786.10.12
+			traits = {
+				basic_colonial_administrator charismatic 
+			}
+		}
+
+		create_character = {
+			first_name = "Sejong_Do"
+			last_name = "Yi"
+			ruler = yes
+			culture = cu:korean
+			religion = rel:mahayana
+			birth_date = 1788.5.7
+			traits = {
+				cautious expert_colonial_administrator 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

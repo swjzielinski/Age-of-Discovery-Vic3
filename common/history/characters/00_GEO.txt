@@ -1,0 +1,28 @@
+﻿CHARACTERS = {
+	c:GEO = {
+		create_character = {
+			first_name = "Giorgi"
+			last_name = "Bagrationi"
+			heir = yes
+			culture = cu:georgian
+			religion = rel:orthodox
+			birth_date = 1808.1.1
+			traits = {
+				charismatic 
+			}
+		}
+
+		create_character = {
+			first_name = "Vakhtang_IV"
+			last_name = "Bagrationi"
+			ruler = yes
+			culture = cu:georgian
+			religion = rel:orthodox
+			birth_date = 1803.1.1
+			traits = {
+				hedonist 
+			}
+		}
+
+	}
+}

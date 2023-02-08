@@ -1,0 +1,25 @@
+﻿CHARACTERS = {
+	c:U26 = {
+		create_character = {
+			first_name = "Chandra"
+			last_name = "Malla"
+			heir = yes
+			culture = cu:bengali
+			religion = rel:hindu
+			birth_date = 1825.1.1
+		}
+
+		create_character = {
+			first_name = "Uday"
+			last_name = "Malla"
+			ruler = yes
+			culture = cu:bengali
+			religion = rel:hindu
+			birth_date = 1815.1.1
+			traits = {
+				meticulous 
+			}
+		}
+
+	}
+}

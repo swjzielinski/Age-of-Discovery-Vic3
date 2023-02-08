@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:TPI = {
+		create_character = {
+			first_name = "Pirija_Tamoio"
+			ruler = yes
+			culture = cu:tupinamba
+			religion = rel:animist
+			birth_date = 1816.11.11
+			traits = {
+				cruel 
+			}
+		}
+
+	}
+}

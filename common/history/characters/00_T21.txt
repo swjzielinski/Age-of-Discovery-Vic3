@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:T21 = {
+		create_character = {
+			first_name = "Makatozaza_Mnikhowozu"
+			ruler = yes
+			culture = cu:siouan
+			religion = rel:totemism
+			birth_date = 1814.11.11
+			traits = {
+				shellshocked 
+			}
+		}
+
+	}
+}

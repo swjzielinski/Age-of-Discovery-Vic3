@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:V00 = {
+		create_character = {
+			first_name = "Kianhoon_Nechaui"
+			ruler = yes
+			culture = cu:caddoan
+			religion = rel:totemism
+			birth_date = 1817.11.11
+			traits = {
+				basic_colonial_administrator 
+			}
+		}
+
+	}
+}

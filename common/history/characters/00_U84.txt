@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:U84 = {
+		create_character = {
+			first_name = "Panacheese_Maskekowak"
+			ruler = yes
+			culture = cu:cree
+			religion = rel:totemism
+			birth_date = 1814.11.11
+			traits = {
+				experienced_political_operator 
+			}
+		}
+
+	}
+}

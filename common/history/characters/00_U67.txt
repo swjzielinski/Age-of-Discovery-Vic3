@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:U67 = {
+		create_character = {
+			first_name = "Muzura_I"
+			last_name = "Mwale"
+			ruler = yes
+			culture = cu:chewa
+			religion = rel:animist
+			birth_date = 1817.1.1
+			traits = {
+				basic_political_operator cautious 
+			}
+		}
+
+	}
+}

@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:R26 = {
+		create_character = {
+			first_name = "Catequil"
+			last_name = "Wanka"
+			ruler = yes
+			culture = cu:quechua
+			religion = rel:inti
+			birth_date = 1817.1.1
+			traits = {
+				tactful 
+			}
+		}
+
+	}
+}

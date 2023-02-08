@@ -1,0 +1,28 @@
+﻿CHARACTERS = {
+	c:BYZ = {
+		create_character = {
+			first_name = "Konstantinos"
+			last_name = "Palaiologos"
+			heir = yes
+			culture = cu:greek
+			religion = rel:orthodox
+			birth_date = 1796.2.8
+			traits = {
+				arrogant 
+			}
+		}
+
+		create_character = {
+			first_name = "Ioannes_VIII"
+			last_name = "Palaiologos"
+			ruler = yes
+			culture = cu:greek
+			religion = rel:orthodox
+			birth_date = 1783.12.18
+			traits = {
+				innovative 
+			}
+		}
+
+	}
+}

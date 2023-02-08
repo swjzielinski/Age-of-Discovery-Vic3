@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:R00 = {
+		create_character = {
+			first_name = "Janduwy_Gueren"
+			ruler = yes
+			culture = cu:je
+			religion = rel:animist
+			birth_date = 1815.11.11
+			traits = {
+				charismatic 
+			}
+		}
+
+	}
+}

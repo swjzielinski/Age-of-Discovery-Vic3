@@ -1,0 +1,25 @@
+﻿CHARACTERS = {
+	c:X44 = {
+		create_character = {
+			first_name = "Thihathura"
+			last_name = "Ava"
+			heir = yes
+			culture = cu:burmese
+			religion = rel:theravada
+			birth_date = 1822.5.1
+		}
+
+		create_character = {
+			first_name = "Narapati"
+			last_name = "Ava"
+			ruler = yes
+			culture = cu:burmese
+			religion = rel:theravada
+			birth_date = 1814.4.25
+			traits = {
+				ambitious basic_colonial_administrator 
+			}
+		}
+
+	}
+}

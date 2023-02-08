@@ -1,0 +1,12 @@
+﻿CHARACTERS = {
+	c:DKT = {
+		create_character = {
+			first_name = "Wannata_Ihankthunwanna"
+			ruler = yes
+			culture = cu:dakota
+			religion = rel:totemism
+			birth_date = 1816.11.11
+		}
+
+	}
+}

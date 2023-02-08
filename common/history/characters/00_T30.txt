@@ -1,0 +1,28 @@
+﻿CHARACTERS = {
+	c:T30 = {
+		create_character = {
+			first_name = "James"
+			last_name = "Butler"
+			heir = yes
+			culture = cu:irish
+			religion = rel:catholic
+			birth_date = 1811.11.24
+			traits = {
+				ambitious 
+			}
+		}
+
+		create_character = {
+			first_name = "James_IV"
+			last_name = "Butler"
+			ruler = yes
+			culture = cu:irish
+			religion = rel:catholic
+			birth_date = 1784.5.23
+			traits = {
+				basic_colonial_administrator charismatic 
+			}
+		}
+
+	}
+}

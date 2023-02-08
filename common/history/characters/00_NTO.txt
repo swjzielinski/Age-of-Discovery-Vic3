@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:NTO = {
+		create_character = {
+			first_name = "Etera_I"
+			last_name = "Ngati_Hine"
+			ruler = yes
+			culture = cu:maori
+			religion = rel:animist
+			birth_date = 1815.11.11
+			traits = {
+				ambitious basic_diplomat 
+			}
+		}
+
+	}
+}

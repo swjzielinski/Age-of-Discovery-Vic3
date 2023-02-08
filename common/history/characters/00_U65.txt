@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:U65 = {
+		create_character = {
+			first_name = "Illangulien_Lonko"
+			ruler = yes
+			culture = cu:araucanian
+			religion = rel:animist
+			birth_date = 1817.11.11
+			traits = {
+				charismatic experienced_diplomat 
+			}
+		}
+
+	}
+}

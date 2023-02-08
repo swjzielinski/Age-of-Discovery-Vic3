@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:APC = {
+		create_character = {
+			first_name = "Na_tio_tish_Chiricahua"
+			ruler = yes
+			culture = cu:apache
+			religion = rel:totemism
+			birth_date = 1817.11.11
+			traits = {
+				experienced_political_operator 
+			}
+		}
+
+	}
+}

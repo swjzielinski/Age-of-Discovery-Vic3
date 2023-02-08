@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:X34 = {
+		create_character = {
+			first_name = "Ponokahstamix_Sahiyaiyeskabi"
+			ruler = yes
+			culture = cu:siouan
+			religion = rel:totemism
+			birth_date = 1814.11.11
+			traits = {
+				syphilis 
+			}
+		}
+
+	}
+}

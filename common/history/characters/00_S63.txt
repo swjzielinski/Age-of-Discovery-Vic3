@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:S63 = {
+		create_character = {
+			first_name = "Harata_I"
+			last_name = "Ngapuhi"
+			ruler = yes
+			culture = cu:maori
+			religion = rel:animist
+			birth_date = 1817.11.11
+			traits = {
+				innovative 
+			}
+		}
+
+	}
+}

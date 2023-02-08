@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:S28 = {
+		create_character = {
+			first_name = "Cesare_Borghese"
+			ruler = yes
+			culture = cu:north_italian
+			religion = rel:catholic
+			birth_date = 1788.11.11
+			traits = {
+				basic_political_operator direct 
+			}
+		}
+
+	}
+}

@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:U96 = {
+		create_character = {
+			first_name = "Meinhard_Oelhafen_von_Schollenbach"
+			ruler = yes
+			culture = cu:south_german
+			religion = rel:catholic
+			birth_date = 1790.11.11
+			traits = {
+				hedonist 
+			}
+		}
+
+	}
+}

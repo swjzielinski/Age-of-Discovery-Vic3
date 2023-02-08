@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:T92 = {
+		create_character = {
+			first_name = "Konrad_Borrner"
+			ruler = yes
+			culture = cu:north_german
+			religion = rel:catholic
+			birth_date = 1805.11.11
+			traits = {
+				expert_colonial_administrator imperious 
+			}
+		}
+
+	}
+}

@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:T66 = {
+		create_character = {
+			first_name = "Leonhard_von_Laiming"
+			ruler = yes
+			culture = cu:south_german
+			religion = rel:catholic
+			birth_date = 1772.1.1
+			traits = {
+				pious 
+			}
+		}
+
+	}
+}

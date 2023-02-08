@@ -1,0 +1,40 @@
+﻿CHARACTERS = {
+	c:S45 = {
+		create_character = {
+			first_name = "Ota"
+			last_name = "Gryf"
+			heir = yes
+			culture = cu:north_german
+			religion = rel:catholic
+			birth_date = 1835.5.29
+		}
+
+		create_character = {
+			first_name = "Elisabeth"
+			last_name = "von_Hohenzollern"
+			female = yes
+			culture = cu:north_german
+			religion = rel:catholic
+			birth_date = 1816.1.1
+			traits = {
+				experienced_political_operator hedonist 
+			}
+		}
+
+		create_character = {
+			first_name = "Joachim_I"
+			last_name = "Gryf"
+			ruler = yes
+			culture = cu:north_german
+			religion = rel:catholic
+			birth_date = 1816.1.1
+			traits = {
+				imperious 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

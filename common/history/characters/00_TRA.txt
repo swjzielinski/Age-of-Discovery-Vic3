@@ -1,0 +1,28 @@
+﻿CHARACTERS = {
+	c:TRA = {
+		create_character = {
+			first_name = "Sri_Vira_Martanda_Varma"
+			last_name = "Cheraman"
+			heir = yes
+			culture = cu:malayalam
+			religion = rel:hindu
+			birth_date = 1831.1.1
+			traits = {
+				grifter 
+			}
+		}
+
+		create_character = {
+			first_name = "Mootha"
+			last_name = "Cheraman"
+			ruler = yes
+			culture = cu:malayalam
+			religion = rel:hindu
+			birth_date = 1817.1.1
+			traits = {
+				cruel 
+			}
+		}
+
+	}
+}

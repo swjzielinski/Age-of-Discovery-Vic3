@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:HAW = {
+		create_character = {
+			first_name = "Kihanuilulumoku"
+			last_name = "Waipuna"
+			ruler = yes
+			culture = cu:hawaiian
+			religion = rel:animist
+			birth_date = 1815.11.11
+			traits = {
+				arrogant basic_political_operator 
+			}
+		}
+
+	}
+}

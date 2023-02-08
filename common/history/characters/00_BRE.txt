@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:BRE = {
+		create_character = {
+			first_name = "Nicolaus_Brill"
+			ruler = yes
+			culture = cu:north_german
+			religion = rel:catholic
+			birth_date = 1796.11.11
+			traits = {
+				basic_political_operator imperious 
+			}
+		}
+
+	}
+}

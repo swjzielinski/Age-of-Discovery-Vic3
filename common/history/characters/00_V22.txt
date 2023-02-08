@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:V22 = {
+		create_character = {
+			first_name = "Demetre_I"
+			last_name = "Bagrationi"
+			ruler = yes
+			culture = cu:georgian
+			religion = rel:orthodox
+			birth_date = 1774.1.1
+			traits = {
+				basic_diplomat innovative 
+			}
+		}
+
+	}
+}

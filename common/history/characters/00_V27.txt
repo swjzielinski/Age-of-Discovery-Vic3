@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:V27 = {
+		create_character = {
+			first_name = "Xenome_Tesuque"
+			ruler = yes
+			culture = cu:pueblo
+			religion = rel:totemism
+			birth_date = 1817.11.11
+			traits = {
+				basic_political_operator 
+			}
+		}
+
+	}
+}

@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:R22 = {
+		create_character = {
+			first_name = "Thathanka__Iyotake_Sihasapa"
+			ruler = yes
+			culture = cu:dakota
+			religion = rel:totemism
+			birth_date = 1814.11.11
+			traits = {
+				basic_diplomat 
+			}
+		}
+
+	}
+}

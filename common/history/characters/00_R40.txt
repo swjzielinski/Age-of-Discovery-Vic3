@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:R40 = {
+		create_character = {
+			first_name = "Amaroo_Matari"
+			ruler = yes
+			culture = cu:aborigine
+			religion = rel:animist
+			birth_date = 1817.11.11
+			traits = {
+				basic_colonial_administrator direct 
+			}
+		}
+
+	}
+}

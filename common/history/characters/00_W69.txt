@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:W69 = {
+		create_character = {
+			first_name = "Lalyurva_Blackhawk"
+			ruler = yes
+			culture = cu:siouan
+			religion = rel:totemism
+			birth_date = 1814.11.11
+			traits = {
+				basic_colonial_administrator 
+			}
+		}
+
+	}
+}

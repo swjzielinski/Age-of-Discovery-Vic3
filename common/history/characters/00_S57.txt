@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:S57 = {
+		create_character = {
+			first_name = "Tanemahuta_I"
+			last_name = "Ngati_Toa"
+			ruler = yes
+			culture = cu:maori
+			religion = rel:animist
+			birth_date = 1816.11.11
+			traits = {
+				basic_colonial_administrator cautious 
+			}
+		}
+
+	}
+}

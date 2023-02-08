@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:X06 = {
+		create_character = {
+			first_name = "Nasr_el_Din"
+			last_name = "Kanz"
+			ruler = yes
+			culture = cu:sudanese
+			religion = rel:shiite
+			birth_date = 1811.1.1
+			traits = {
+				basic_political_operator reckless 
+			}
+		}
+
+	}
+}

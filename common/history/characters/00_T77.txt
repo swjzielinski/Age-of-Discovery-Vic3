@@ -1,0 +1,25 @@
+﻿CHARACTERS = {
+	c:T77 = {
+		create_character = {
+			first_name = "Luyes"
+			last_name = "Caracara"
+			heir = yes
+			culture = cu:muisca
+			religion = rel:inti
+			birth_date = 1826.1.1
+		}
+
+		create_character = {
+			first_name = "Huaypalcon"
+			last_name = "Caracara"
+			ruler = yes
+			culture = cu:muisca
+			religion = rel:inti
+			birth_date = 1817.1.1
+			traits = {
+				hedonist 
+			}
+		}
+
+	}
+}

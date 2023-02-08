@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:S84 = {
+		create_character = {
+			first_name = "Benedikt_von_Trent"
+			ruler = yes
+			culture = cu:south_german
+			religion = rel:catholic
+			birth_date = 1804.6.3
+			traits = {
+				meticulous 
+			}
+		}
+
+	}
+}

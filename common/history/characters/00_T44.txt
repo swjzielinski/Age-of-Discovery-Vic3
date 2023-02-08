@@ -1,0 +1,28 @@
+﻿CHARACTERS = {
+	c:T44 = {
+		create_character = {
+			first_name = "Illapa"
+			last_name = "Pacaje"
+			heir = yes
+			culture = cu:aimara
+			religion = rel:inti
+			birth_date = 1806.1.1
+			traits = {
+				ambitious 
+			}
+		}
+
+		create_character = {
+			first_name = "Cayo"
+			last_name = "Pacaje"
+			ruler = yes
+			culture = cu:aimara
+			religion = rel:inti
+			birth_date = 1817.1.1
+			traits = {
+				persistent 
+			}
+		}
+
+	}
+}

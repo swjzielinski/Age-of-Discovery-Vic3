@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:S41 = {
+		create_character = {
+			first_name = "Bir"
+			last_name = "Plassia"
+			ruler = yes
+			culture = cu:nepali
+			religion = rel:hindu
+			birth_date = 1812.1.1
+			traits = {
+				ambitious 
+			}
+		}
+
+	}
+}

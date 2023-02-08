@@ -1,0 +1,28 @@
+﻿CHARACTERS = {
+	c:S90 = {
+		create_character = {
+			first_name = "Dhanya"
+			last_name = "Manikya"
+			heir = yes
+			culture = cu:manipuri
+			religion = rel:hindu
+			birth_date = 1791.1.1
+			traits = {
+				basic_political_operator meticulous 
+			}
+		}
+
+		create_character = {
+			first_name = "Pratap"
+			last_name = "Manikya"
+			ruler = yes
+			culture = cu:manipuri
+			religion = rel:hindu
+			birth_date = 1783.1.1
+			traits = {
+				imperious 
+			}
+		}
+
+	}
+}

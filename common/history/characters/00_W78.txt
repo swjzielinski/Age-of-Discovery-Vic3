@@ -1,0 +1,28 @@
+﻿CHARACTERS = {
+	c:W78 = {
+		create_character = {
+			first_name = "Hansdeo"
+			last_name = "Parmar"
+			heir = yes
+			culture = cu:nepali
+			religion = rel:hindu
+			birth_date = 1811.1.1
+			traits = {
+				cruel 
+			}
+		}
+
+		create_character = {
+			first_name = "Sundar_Pal"
+			last_name = "Parmar"
+			ruler = yes
+			culture = cu:nepali
+			religion = rel:hindu
+			birth_date = 1770.1.1
+			traits = {
+				cautious 
+			}
+		}
+
+	}
+}

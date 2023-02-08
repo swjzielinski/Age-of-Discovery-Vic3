@@ -1,0 +1,25 @@
+﻿CHARACTERS = {
+	c:AUS = {
+		create_character = {
+			first_name = "Ladislaus_Postumus"
+			last_name = "von_Habsburg"
+			heir = yes
+			culture = cu:south_german
+			religion = rel:catholic
+			birth_date = 1831.2.22
+		}
+
+		create_character = {
+			first_name = "Friedrich_III"
+			last_name = "von_Habsburg"
+			ruler = yes
+			culture = cu:south_german
+			religion = rel:catholic
+			birth_date = 1806.9.21
+			traits = {
+				cautious 
+			}
+		}
+
+	}
+}

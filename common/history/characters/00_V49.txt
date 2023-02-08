@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:V49 = {
+		create_character = {
+			first_name = "Jarra_Minar"
+			ruler = yes
+			culture = cu:aborigine
+			religion = rel:animist
+			birth_date = 1815.11.11
+			traits = {
+				imperious 
+			}
+		}
+
+	}
+}

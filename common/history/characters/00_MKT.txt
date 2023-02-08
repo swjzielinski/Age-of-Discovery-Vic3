@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:MKT = {
+		create_character = {
+			first_name = "Yumcaaz_Kiin"
+			ruler = yes
+			culture = cu:miskito
+			religion = rel:animist
+			birth_date = 1817.11.11
+			traits = {
+				ambitious basic_diplomat 
+			}
+		}
+
+	}
+}

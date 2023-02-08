@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:T23 = {
+		create_character = {
+			first_name = "Galisteo_Isleta"
+			ruler = yes
+			culture = cu:pueblo
+			religion = rel:totemism
+			birth_date = 1814.11.11
+			traits = {
+				basic_diplomat 
+			}
+		}
+
+	}
+}

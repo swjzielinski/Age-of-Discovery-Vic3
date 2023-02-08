@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:W14 = {
+		create_character = {
+			first_name = "Petrezok"
+			last_name = "Petrezok"
+			ruler = yes
+			culture = cu:north_caucasian
+			religion = rel:orthodox
+			birth_date = 1816.1.1
+			traits = {
+				hedonist 
+			}
+		}
+
+	}
+}

@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:U17 = {
+		create_character = {
+			first_name = "Dietrich_I"
+			ruler = yes
+			culture = cu:north_german
+			religion = rel:catholic
+			birth_date = 1781.1.1
+			traits = {
+				charismatic 
+			}
+		}
+
+	}
+}

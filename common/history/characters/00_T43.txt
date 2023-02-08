@@ -1,0 +1,12 @@
+﻿CHARACTERS = {
+	c:T43 = {
+		create_character = {
+			first_name = "Hopothemico_Hopoethe"
+			ruler = yes
+			culture = cu:muskogean
+			religion = rel:totemism
+			birth_date = 1817.11.11
+		}
+
+	}
+}

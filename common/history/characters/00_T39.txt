@@ -1,0 +1,29 @@
+﻿CHARACTERS = {
+	c:T39 = {
+		create_character = {
+			first_name = "Putri_Wanang_Seri"
+			last_name = "Pahang"
+			heir = yes
+			female = yes
+			culture = cu:malay
+			religion = rel:mahayana
+			birth_date = 1816.1.1
+			traits = {
+				basic_political_operator bigoted 
+			}
+		}
+
+		create_character = {
+			first_name = "Dewa_Sura"
+			last_name = "Pahang"
+			ruler = yes
+			culture = cu:malay
+			religion = rel:mahayana
+			birth_date = 1769.1.1
+			traits = {
+				basic_colonial_administrator reserved 
+			}
+		}
+
+	}
+}

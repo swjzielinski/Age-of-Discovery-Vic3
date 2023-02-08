@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:X83 = {
+		create_character = {
+			first_name = "Aramapingea_Chepoussa"
+			ruler = yes
+			culture = cu:algonquian
+			religion = rel:totemism
+			birth_date = 1816.11.11
+			traits = {
+				shellshocked 
+			}
+		}
+
+	}
+}

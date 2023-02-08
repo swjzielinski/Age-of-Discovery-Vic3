@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:S17 = {
+		create_character = {
+			first_name = "Homatah_Hothlepoya"
+			ruler = yes
+			culture = cu:muskogean
+			religion = rel:totemism
+			birth_date = 1814.11.11
+			traits = {
+				experienced_diplomat 
+			}
+		}
+
+	}
+}
